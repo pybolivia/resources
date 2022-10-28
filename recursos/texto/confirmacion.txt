@@ -7,7 +7,7 @@ Body:
 Hola <Inserte nombre>!
 
 Este correo confirma que recibimos el pago de tu compra para el paquete <Inserte paquete> para la PyCon Bolivia 2022. 
-Podrás canjear tu compra el dia del evento presentando tu documento de identidad y el comprobante del deposito.
+Podrás canjear tu compra el día del evento presentando tu documento de identidad y el comprobante del depósito.
 
 Te esperamos el 9 y 10 de Diciembre en el Hotel Camino Plaza en la ciudad de Cochabamba.
 Gracias por apoyar el evento 🐍
